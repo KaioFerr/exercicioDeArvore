@@ -1,0 +1,3 @@
+C:/Users/Aluno/Documents/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/ArvoreBinariaBusca.dir
+C:/Users/Aluno/Documents/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/ArvoreBinariaBusca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
